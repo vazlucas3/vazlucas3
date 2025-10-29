@@ -8,6 +8,7 @@
       style="border-radius: 10px;"
     />
   </a>
+  <br>
   
   <a href="https://github.com/vazlucas3" target="_blank" style="text-decoration: none;">
     <img 
