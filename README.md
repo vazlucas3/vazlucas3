@@ -1,24 +1,42 @@
 ## Bem-vindo(a) 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center">
+
+  <!-- GitHub Stats -->
   <a href="https://github.com/vazlucas3" target="_blank" style="text-decoration: none;">
     <img 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=vazlucas3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+      src="https://github-readme-stats.vercel.app/api?username=vazlucas3&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" 
       alt="GitHub Stats de vazlucas3"
-      style="border-radius: 10px;"
+      style="border-radius: 10px; margin: 5px;"
     />
   </a>
+
+  <!-- Linguagens mais usadas -->
+  <a href="https://github.com/vazlucas3" target="_blank" style="text-decoration: none;">
+    <img 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazlucas3&layout=compact&langs_count=20&theme=graywhite&count_private=true&include_all_commits=true&hide_border=true" 
+      alt="Linguagens e frameworks mais usados por vazlucas3"
+      style="border-radius: 10px; margin: 5px;"
+    />
+  </a>
+
+  <!-- Ícones de Tecnologias e Frameworks -->
+  <br>
   <br>
   
-  <a href="https://github.com/vazlucas3" target="_blank" style="text-decoration: none;">
-    <img 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazlucas3&layout=compact&langs_count=6&theme=tokyonight" 
-      alt="Linguagens mais usadas por vazlucas3"
-      style="border-radius: 10px;"
-    />
-  </a>
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,flask,django,git,github,sqlite" />
+</p>
+
+
+
+  <p>
+    <i>💡 Sempre aprendendo e construindo novos projetos!</i>
+  </p>
+
 </div>
+
 
     
 <br>
