@@ -1,10 +1,24 @@
 ## Bem-vindo(a) 
-
- <div>
-   <a href="https://github.com/vazlucas3">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vazlucas3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazlucas3&layout=compact&langs_count=6&theme=tokyonight"/>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/vazlucas3" target="_blank" style="text-decoration: none;">
+    <img 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api?username=vazlucas3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+      alt="GitHub Stats de vazlucas3"
+      style="border-radius: 10px;"
+    />
+  </a>
+  
+  <a href="https://github.com/vazlucas3" target="_blank" style="text-decoration: none;">
+    <img 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazlucas3&layout=compact&langs_count=6&theme=tokyonight" 
+      alt="Linguagens mais usadas por vazlucas3"
+      style="border-radius: 10px;"
+    />
+  </a>
 </div>
+
     
 <br>
  
