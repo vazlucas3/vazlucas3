@@ -1,33 +1,32 @@
-## Bem-vindo(a) 
+## Bem-vindo(a)
 <div align="center">
 
   <!-- GitHub Stats -->
-  <a href="https://github.com/vazlucas3" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/vazlucas3" target="_blank">
     <img 
       height="180" 
       src="https://github-readme-stats.vercel.app/api?username=vazlucas3&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" 
       alt="GitHub Stats de vazlucas3"
-      style="border-radius: 10px; margin: 5px;"
     />
   </a>
 
   <!-- Linguagens mais usadas -->
-  <a href="https://github.com/vazlucas3" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/vazlucas3" target="_blank">
     <img 
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazlucas3&layout=compact&langs_count=20&theme=graywhite&count_private=true&include_all_commits=true&hide_border=true" 
       alt="Linguagens e frameworks mais usados por vazlucas3"
-      style="border-radius: 10px; margin: 5px;"
     />
   </a>
 
+  <br><br>
+
   <!-- Ícones de Tecnologias e Frameworks -->
-  <br>
-  <br>
-  
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,flask,django,git,github,sqlite" />
-</p>
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,flask,django,git,github,sqlite,mysql,postgres" />
+  </p>
+
+</div>
 
 
 
