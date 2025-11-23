@@ -23,11 +23,8 @@
 
   <!-- Ícones de Tecnologias e Frameworks -->
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,flask,django,git,github,sqlite,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,django,git,github,sqlite,mysql,bootstrap" />
   </p>
-
-</div>
-
 
 
   <p>
