@@ -19,9 +19,6 @@
     />  
   </a>  
 
-</div>
-
-
   <br><br>
 
   <!-- Ícones de Tecnologias e Frameworks -->
