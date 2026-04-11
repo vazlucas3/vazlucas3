@@ -1,56 +1,72 @@
-## Bem-vindo(a)  
-<div align="center">  
+# 👋 Olá, eu sou o Lucas Vaz
 
-  <!-- GitHub Stats -->  
-  <a href="https://github.com/vazlucas3" target="_blank">  
-    <img  
-      height="180"  
-      src="https://github-readme-stats.vercel.app/api?username=vazlucas3&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true"  
-      alt="Estatísticas do GitHub de vazlucas3"  
-    />  
-  </a>  
+🎯 Em transição para a área de **Qualidade de Software (QA)** e **Dados**  
+💻 Estudante de TI com foco em **Python, SQL e Power BI**  
+📍 Brasil  
 
-  <!-- Linguagens mais usadas -->  
-  <a href="https://github.com/vazlucas3" target="_blank">  
-    <img  
-      height="180"  
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vazlucas3&layout=compact&langs_count=20&theme=graywhite&count_private=true&include_all_commits=true&hide_border=true"  
-      alt="Linguagens mais usadas por vazlucas3"  
-    />  
-  </a>  
+---
 
-  <br><br>
+## 🚀 Sobre mim
 
-  <!-- Ícones de Tecnologias e Frameworks -->
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,django,git,github,sqlite,mysql,bootstrap,vscode,pycharm" />
-  </p>
+Sou um profissional em formação na área de tecnologia, com foco em análise de dados e qualidade de software.  
+Tenho conhecimento em banco de dados, lógica de programação e estou evoluindo para atuar com testes e automação.
 
+💡 Busco minha primeira oportunidade para aplicar meus conhecimentos em um ambiente real e continuar evoluindo.
 
-  <p>
-    <i>💡 Sempre aprendendo e construindo novos projetos!</i>
-  </p>
+---
 
-</div>
+## 🛠️ Tecnologias e Ferramentas
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,mysql,sqlite,vscode" />
+</p>
 
-    
-<br>
- 
-<div align="center">
+---
 
-  ### Para contatos!
+## 📊 Projetos em Destaque
+
+🔹 **Análise de Vendas com Power BI**  
+- Tratamento de dados com Power Query  
+- Criação de dashboard interativo  
+- Métricas de faturamento, produtos e desempenho  
+
+🔹 **Automação com Python**  
+- Scripts para manipulação de dados  
+- Lógica aplicada com listas, loops e condições  
+
+🔹 **Banco de Dados (SQL)**  
+- Criação e consulta de tabelas  
+- Uso de SELECT, JOIN, filtros e agregações  
+
+👉 Em breve: projetos de **QA (testes manuais e automação)**
+
+---
+
+## 📈 Em evolução
+
+- 🧪 Testes de Software (QA)  
+- 🤖 Automação de testes  
+- 📊 Power BI avançado  
+- 🐍 Python para dados  
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-vaz-ribeiro-93736a2ba" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
   <a href="https://www.instagram.com/ribeiro_lucasvaz" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="https://discord.gg/1344068238602014771" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+</p>
 
-  <a href="https://www.linkedin.com/in/lucas-vaz-ribeiro-93736a2ba" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+---
 
-</div>
+💡 *Focado em evolução constante e em construir uma carreira sólida na área de tecnologia.*
