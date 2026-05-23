@@ -7,7 +7,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,mysql,sqlite,vscode," />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,mysql,sqlite,vscode,nodejs" />
 </p>
 
 
